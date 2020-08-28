@@ -7,6 +7,7 @@
 
 *WeFlix is an app designed to help groups of people settle on a movie to watch together. A user can add friends of theirs to a group. Once everyone has been added to the group, WeFlix will choose a few movies for them to watch!*
 
+![Weflix SS](https://i.imgur.com/DOctoM7.png)
 
 ### **Background Knowledge**
 **Collaborative Filtering**:
