@@ -1,4 +1,6 @@
 ## Project Links
+- [Front End Repo](https://github.com/NickDiPreta/WEFLIX-FRONT)
+- [Back End Repo](https://github.com/NickDiPreta/WEFLIX-BACK)
 - [Live Link](https://stark-plateau-00385.herokuapp.com/) (guest log in is username: guest@hotmail.com password: guestpassword )
 - [Medium Article about The Recommender Engine](https://medium.com/@nicholasdipreta2020/how-to-create-a-user-user-collaborative-filtering-recommender-system-in-ruby-rails-react-js-36f89b4dce05)
 ## **Project Overview:**
